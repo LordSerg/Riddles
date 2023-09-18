@@ -1,0 +1,10 @@
+D:\_My_Projects\prison_experiment\prison_experiment\bin\Release\prison_experiment.exe.config
+D:\_My_Projects\prison_experiment\prison_experiment\bin\Release\prison_experiment.exe
+D:\_My_Projects\prison_experiment\prison_experiment\bin\Release\prison_experiment.pdb
+D:\_My_Projects\prison_experiment\prison_experiment\obj\Release\prison_experiment.csproj.AssemblyReference.cache
+D:\_My_Projects\prison_experiment\prison_experiment\obj\Release\prison_experiment.Form1.resources
+D:\_My_Projects\prison_experiment\prison_experiment\obj\Release\prison_experiment.Properties.Resources.resources
+D:\_My_Projects\prison_experiment\prison_experiment\obj\Release\prison_experiment.csproj.GenerateResource.cache
+D:\_My_Projects\prison_experiment\prison_experiment\obj\Release\prison_experiment.csproj.CoreCompileInputs.cache
+D:\_My_Projects\prison_experiment\prison_experiment\obj\Release\prison_experiment.exe
+D:\_My_Projects\prison_experiment\prison_experiment\obj\Release\prison_experiment.pdb
